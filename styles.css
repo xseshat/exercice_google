@@ -1,0 +1,45 @@
+.navbar ul li{
+    list-style: none;
+    float: left;
+    padding-left: 20px ;
+}
+.navbar ul {
+    position: absolute;
+    right: 30px;
+}
+
+
+.logo{
+    width: 20%;
+    position: absolute;
+    left: 50%;
+    top:30%;
+    transform: translate(-50%);
+}
+
+.bar-de-recherche{
+    position: absolute;
+    left: 50%;
+    top:450px;
+    transform: translate(-50%);
+
+}
+.search-bar{
+    background-color: #f2f2f2;
+    border-radius: 25px;
+    height: 50px;
+    width: 500px;
+   padding-right: 30px;
+
+}
+
+.recherche{
+    background-color: #ffffff;
+    border: none;
+    
+}
+.logo-recherche{
+    height: 45px;
+    position: absolute;
+    top: 0px;
+}
